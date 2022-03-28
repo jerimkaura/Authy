@@ -46,4 +46,10 @@ class ApplicationModule {
             .create(AuthyApi::class.java)
     }
 
+    @Singleton
+    @Provides
+    fun providesOkHttp(): OkHttpClient {
+        return OkHttpClient()
+    }
+
 }
