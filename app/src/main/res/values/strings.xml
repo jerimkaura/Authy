@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Authy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_provider">Register Provider</string>
+    <string name="firstname">John</string>
+    <string name="lastname">Doe</string>
+    <string name="phonenumber">254712345678</string>
+    <string name="email_address">johndoe@gmail.com</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here.</string>
+    <string name="have_no_account">Have No Account?</string>
+    <string name="login_text">LOGIN</string>
+    <string name="password">Password</string>
+</resources>

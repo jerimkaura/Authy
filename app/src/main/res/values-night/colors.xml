@@ -1,0 +1,14 @@
+<resources>
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="colorWhite">#1D1D1D</color>
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorBlack">#FFFFFF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorEditText">#14000000</color>
+    <color name="colorButton">#0E68FF</color>
+    <color name="colorButtonText">#BB86FC</color>
+    <color name="colorPlaceholder">#505050</color>
+    <color name="colorTextPrimary">#0E68FF</color>
+</resources>
