@@ -38,9 +38,9 @@
         android:layout_marginTop="80dp"
         android:layout_weight="3"
         android:background="@drawable/card_top_round_background"
+        app:layout_constraintBottom_toTopOf="@+id/LinearLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toTopOf="@+id/LinearLayout"
         app:layout_constraintTop_toBottomOf="@+id/relativeLayout">
 
         <LinearLayout
